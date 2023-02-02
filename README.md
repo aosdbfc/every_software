@@ -38,7 +38,7 @@ class SoccerPlayer(object):
     print("선수의 등번호를 변경합니다 : From %d to %d" %(self.back_number, new_number))
     self.back_number = new_number
    
-   ## 객체 지향 언어의 특징 중 필요한 것들
+   #### 객체 지향 언어의 특징 중 필요한 것들
    상속, 다형성, 가시성
    
    #### decorate
@@ -47,7 +47,7 @@ class Student:
         self.name = name
         self.marks = marks
         
-# self.gotmarks = self.name + ' obtained ' + self.marks + ' marks'
+self.gotmarks = self.name + ' obtained ' + self.marks + ' marks'
 
 @property
 def gotmarks(self):
