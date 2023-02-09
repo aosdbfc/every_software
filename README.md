@@ -66,3 +66,11 @@ def generate_power(exponent):
 def raise_two(n):
     return n**2
 
+
+
+## 4주차 
+날짜: 2/9 ( 시간: 15:00 ~ 18:20 ) 
+장소: 팔달관 317호
+팀명 : 데이터란 무엇인가
+
+##### 공부 내용:  
